@@ -10,8 +10,8 @@ import getpass
 import logging
 import logging
 
-login= "XXXXXXXXXXXXXX"
-senha= "XXXXXXXXXXXXX"
+login= "XXXXXX"
+senha= "XXXXXX"
 navegador = webdriver.Chrome()
 def login():
     aux=0
